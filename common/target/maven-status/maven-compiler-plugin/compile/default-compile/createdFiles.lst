@@ -1,0 +1,15 @@
+swagger\api\demo\model\LoginPayload.class
+swagger\api\demo\util\ApiException.class
+swagger\api\demo\util\ExtentManager.class
+swagger\api\demo\util\ExtentTestManager.class
+swagger\api\demo\model\LoginRequest.class
+swagger\api\demo\util\JsonUtil.class
+swagger\api\demo\util\ReportUtil.class
+swagger\api\demo\util\RestClient.class
+swagger\api\demo\util\PropertyReader.class
+swagger\api\demo\model\LoginResponse.class
+swagger\api\demo\util\BaseTest.class
+swagger\api\demo\util\RestClient$1.class
+swagger\api\demo\util\CustomObjectMapper.class
+swagger\api\demo\model\AffiliateSelectionResponse.class
+swagger\api\demo\model\ClientSelectionResponse.class

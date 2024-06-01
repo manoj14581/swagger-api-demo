@@ -1,0 +1,10 @@
+.idea/*
+target/*
+logs/*
+*.iml
+.settings/*
+logs/application.html
+logs/latest.log
+common/target/*
+swagger-update/target/*
+petstore/target/*

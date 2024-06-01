@@ -1,0 +1,2 @@
+ClientId(int)|Username|Email|FirstName|LastName|BusinessGroups(name)|LineManagers(key:value - comma separated)|IsActive(Y/N)|SSOID|Timezone(IANA)|Currency(ISO)|Division|Title|WorkLocation|StartDate(yyyyMMdd)|EndDate(yyyyMMdd)|CustomIdentifiers(key:value)|Products(comma separated codes)|DisplayName
+7179|saurabh.raja56@bc.com|saurabh.s2@360logica.com|Puneet|Importfil666|||Y||||ComplianceAlpha|Developer|New York|20200101|||Saurabh Singh
